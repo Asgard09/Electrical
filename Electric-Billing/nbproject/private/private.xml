@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/NewCustomer.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/ThongKeAdmin.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/ThongKeUser.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/AccountAdminDao.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/Login.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/service/AccountAdminService.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/ViewInfo.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/model/AccountCustomer.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/AdminMenu.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/model/InfoCustomer.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/MetterInfo.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/mysqlconnect.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/TaxUpdate.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/service/ThongKeService.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/InfoCustomerDaoImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/service/InfoCustomerServiceImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/AccountCustomerDao.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/TaxDao.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/CustomerDetail.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/WalletUser.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/UpdateInfo.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/PayBill.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/service/InfoCustomerService.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/TaxDaoImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/service/AccountCustomerServiceImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/BillDetail.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/service/ThongKeServiceImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/service/BillServiceImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/CustomerMenu.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/CaculatorBill.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/ThongKeDaoImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/InfoCustomerDao.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/HashingPassword.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/AccountCustomerDaoImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/BillDao.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/DepositDetail.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/AccountAdminDaoImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/model/Bill.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/service/AccountAdminServiceImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/service/BillService.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/service/AccountCustomerService.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/Table/TableModel.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/controller/Signup.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/model/Wallet.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/ThongKeDao.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/BillDaoImpl.java</file>
+            <file>file:/C:/Users/thanh/OneDrive/Documents/NetBeansProjects/Electric-Billing/src/connected/FindMetter.java</file>
+        </group>
+    </open-files>
+</project-private>
